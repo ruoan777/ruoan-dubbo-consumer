@@ -1,0 +1,8 @@
+/Users/ruoan/IdeaProjects/dubboTwo/server/src/main/java/com/debug/mooc/dubbo/two/server/BootMoreApplication.java
+/Users/ruoan/IdeaProjects/dubboTwo/server/src/main/java/com/debug/mooc/dubbo/two/server/service/Main.java
+/Users/ruoan/IdeaProjects/dubboTwo/server/src/main/java/com/debug/mooc/dubbo/two/server/controller/ItemController.java
+/Users/ruoan/IdeaProjects/dubboTwo/server/src/main/java/com/debug/mooc/dubbo/two/server/controller/OrderRecordController.java
+/Users/ruoan/IdeaProjects/dubboTwo/server/src/main/java/com/debug/mooc/dubbo/two/server/data/DubboRecordResponse.java
+/Users/ruoan/IdeaProjects/dubboTwo/server/src/main/java/com/debug/mooc/dubbo/two/server/request/RecordPushRequest.java
+/Users/ruoan/IdeaProjects/dubboTwo/server/src/main/java/com/debug/mooc/dubbo/two/server/service/OrderRecordService.java
+/Users/ruoan/IdeaProjects/dubboTwo/server/src/main/java/com/debug/mooc/dubbo/two/server/service/HttpService.java
